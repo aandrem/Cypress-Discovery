@@ -1,2 +1,3 @@
 # Cypress-Discovery
-Teste automatizados com Cypress
+
+Teste automatizados com Cypress no Curso Cypress Discovery 
